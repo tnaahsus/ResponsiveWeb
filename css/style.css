@@ -70,7 +70,7 @@ html{
 
 /* First Section */
 .background {
-  background: url("../bg5.jpg") rgba(17, 15, 15, 0.8);
+  background: url("../static/bg5.jpg") rgba(17, 15, 15, 0.8);
   background-size: cover;
   background-blend-mode: darken;
 }
